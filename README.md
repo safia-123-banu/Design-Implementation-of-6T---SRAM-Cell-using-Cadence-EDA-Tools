@@ -10,7 +10,12 @@ Tools Required:
 
 Circuit Diagram:
 
+
+
+
 ![pic4](https://github.com/user-attachments/assets/133de388-a1c2-446c-bc45-edb6b525e2cc)
+
+
 
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
@@ -30,6 +35,9 @@ ii.	Create Schematic Cell view.
 iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
+
+
+
 
 
 i)	Procedure for Creating New Library.
@@ -52,6 +60,10 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+
+
+
+
 ![ex 4 4](https://github.com/user-attachments/assets/aac27d1a-2fcf-420b-8b05-d74b1e37b9eb)
 
 
@@ -82,6 +94,9 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
+
+
 ![ex 4 2](https://github.com/user-attachments/assets/214cfb12-65c8-4acb-b770-0f82df083184)
 
 
@@ -89,7 +104,12 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
 
 
+
+
 ![ex 4 3](https://github.com/user-attachments/assets/4cfb223f-4365-4244-b7a4-6209003a0f1b)
+
+
+
 
 
 ![ex 4 1](https://github.com/user-attachments/assets/3fa5d32d-62b5-4131-ac43-bfaf13315a81)
