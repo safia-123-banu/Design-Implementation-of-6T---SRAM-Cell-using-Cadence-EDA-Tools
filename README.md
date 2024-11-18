@@ -8,6 +8,7 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+
 Circuit Diagram:
 
 
@@ -69,8 +70,11 @@ ii)	Create Schematic Cell view.
 
 
 
+
  
 iii)	Creating the Symbol for schematic Cell view
+
+
 
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -83,6 +87,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -113,6 +119,7 @@ For Transient Analysis Settings and Output
 
 
 ![ex 4 1](https://github.com/user-attachments/assets/3fa5d32d-62b5-4131-ac43-bfaf13315a81)
+
 
 
 
